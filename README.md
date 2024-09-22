@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonguk21@gmail.com)](mailto:jeonguk21@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeonguk0201/)](https://www.instagram.com/jeonguk0201/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yourusername)](https://www.notion.so/yourusername)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/5db454e88c9b41a0b407accd9e3bf173)](https://www.notion.so/5db454e88c9b41a0b407accd9e3bf173)
 
 
 <div style="text-align: left;">
