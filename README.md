@@ -30,9 +30,6 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <br/><img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white">
            <img src="https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=VMware&logoColor=white">
-           <img src="https://img.shields.io/badge/Network-007396?style=flat-square&logo=Network&logoColor=white">
-           <img src="https://img.shields.io/badge/Infrastructure-2C8EBB?style=flat-square&logo=Infrastructure&logoColor=white">
-           <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
           </div>
     </div>
