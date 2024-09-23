@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=f31bd6&height=120&text=Hello!%20World&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 자기소개 내용 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi there! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I'm passionate about network and infrastructure technologies, always exploring ways to optimize and secure systems. Currently honing my skills and excited to collaborate on projects in these areas. Let's build something great together! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
