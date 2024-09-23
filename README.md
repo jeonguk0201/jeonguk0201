@@ -30,7 +30,6 @@
         <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white">
         <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=Filebeat&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-        
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white">
